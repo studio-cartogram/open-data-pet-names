@@ -5,4 +5,4 @@ const x = fetch(
 )
 .then(response => response.text())
 
-x 
+x
